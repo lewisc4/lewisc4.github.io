@@ -1,0 +1,3 @@
+---
+BUNDLE_PATH: "/Users/christopherlewis/.gem"
+BUNDLE_BUILD__FFI: "--with-cflags=-Wno-error=implicit-function-declaration"
