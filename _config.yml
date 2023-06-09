@@ -31,9 +31,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima # Default/original (supported) theme
+remote_theme: pages-themes/leap-day@v0.2.0 # See: github.com/pages-themes/leap-day
 plugins:
-  - jekyll-feed
+  - jekyll-feed # (Default) Jekyll plugin, for supported themes (e.g., "minima")
+  - jekyll-remote-theme # Jekyll plugin, for remote themes (e.g., "leap-day@v0.2.0")
 
 # Exclude from processing.
 # The following items will not be processed, by default.
