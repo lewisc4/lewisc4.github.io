@@ -76,11 +76,11 @@ document.addEventListener("DOMContentLoaded", function () {
       "detect_on": "canvas",
       "events": {
         "onhover": {
-          "enable": false,
-          "mode": "bubble"
+          "enable": true,
+          "mode": "repulse"
         },
         "onclick": {
-          "enable": false,
+          "enable": true,
           "mode": "repulse"
         },
         "resize": true

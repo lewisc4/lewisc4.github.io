@@ -6,11 +6,11 @@ description: Jekyll Theme Minimal Resume
 
 # User settings
 username: Chris Lewis
-user_description: I have recently received my master's degree in computer science from the University of Massachusetts Lowell. I am driven by a deep passion for leveraging the power of machine learning to solve complex problems and make a positive impact on others. Specifically, my focus lies in the application of deep learning techniques to advance the fields of natural language processing and computer vision. Currently, I am seeking positions in these fields.
-user_title: Machine Learning
-email: clewis7744@gmail.com
-linkedin_username: christopherlewis10
+user_description: I have recently received a Master of Science in Computer Science from the University of Massachusetts Lowell, with a focus in machine learning and data science. I am driven by a deep passion for leveraging the power of machine learning to solve complex problems and make a positive impact on others. Specifically, my focus lies in the application of deep learning techniques to advance the fields of natural language processing and computer vision. Currently, I am seeking positions as a machine learning engineer/data scientist.
+user_title: Python | Machine Learning | Data Science
 github_username:  lewisc4
+linkedin_username: christopherlewis10
+email: clewis7744@gmail.com
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
 
